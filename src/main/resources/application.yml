@@ -2,7 +2,7 @@ spring:
   application:
     name: counsel-crm
   datasource:
-    url: jdbc:postgresql://localhost:5432/counsel_crm
+    url: jdbc:postgresql://localhost:5436/counsel_crm
     username: postgres
     password: postgres
     driver-class-name: org.postgresql.Driver
